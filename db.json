@@ -1,0 +1,71 @@
+{
+    "kategoriler": [
+        {
+            "id": 1,
+            "kategori_ad": "Programlama",
+            "aktiv": false
+        },
+        {
+            "id": 2,
+            "kategori_ad": "Web Geli\u015ftirme",
+            "aktiv": false
+        },
+        {
+            "id": 3,
+            "kategori_ad": "Veri Analizi",
+            "aktiv": true
+        },
+        {
+            "id": 4,
+            "kategori_ad": "Ofice Uygulamalari",
+            "aktiv": false
+        }
+    ],
+    "Kurslar": [
+        {
+            "kurs": "Php Kurs",
+            "altBaslik": "Sifirdan ileri seviye Php web gelistirme",
+            "resim": "img/img1.png",
+            "yayinTarihi": "01.02.2020",
+            "yorumSayisi": 0,
+            "begeniSayi": 10,
+            "onay": true
+        },
+        {
+            "kurs": "Java Script Kurs",
+            "altBaslik": "Sifirdan ileri seviye Java Script web Programlama",
+            "resim": "img/img2.png",
+            "yayinTarihi": "01.02.2020",
+            "yorumSayisi": 0,
+            "begeniSayi": 10,
+            "onay": true
+        },
+        {
+            "kurs": "Node.js Kurs",
+            "altBaslik": "Sifirdanf ileri seviye Node.js web gelistirme",
+            "resim": "img/img3.png",
+            "yayinTarihi": "01.02.2020",
+            "yorumSayisi": 0,
+            "begeniSayi": 10,
+            "onay": true
+        },
+        {
+            "kurs": "C# Kurs Kurs",
+            "altBaslik": "Sifirdan ileri seviye C# web Programlama",
+            "resim": "img/img4.png",
+            "yayinTarihi": "05.10.2020",
+            "yorumSayisi": 10,
+            "begeniSayi": 5,
+            "onay": true
+        },
+        {
+            "kurs": "Html",
+            "altBaslik": "html tasarim ogren",
+            "resim": "img/img2.png",
+            "yayinTarihi": "20.05.2022",
+            "yorumSayisi": 0,
+            "begeniSayi": 0,
+            "onay": true
+        }
+    ]
+}
